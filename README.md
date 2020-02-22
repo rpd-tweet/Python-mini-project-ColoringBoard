@@ -1,2 +1,2 @@
 # Python-mini-project-ColoringBoard
-Coloring Board
+ A coloring board for kids
